@@ -42,6 +42,8 @@ It is a **step-by-step process** that is followed to **develop high-quality soft
 
 * To ensure software is built **on time**, **within budget**, and **with expected quality**.
 
+---
+
 Here is a picture that depicts all the stages in SDLC
 
 ![alt text](Assets/image.png)
