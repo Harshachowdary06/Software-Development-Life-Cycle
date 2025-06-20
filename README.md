@@ -42,5 +42,7 @@ It is a **step-by-step process** that is followed to **develop high-quality soft
 
 * To ensure software is built **on time**, **within budget**, and **with expected quality**.
 
-Would you like all **types of SDLC models** explained next (like Waterfall, Agile, Spiral, etc.)?
+Here is a picture that depicts all the stages in SDLC
+
+![alt text](Assets/image.png)
 
