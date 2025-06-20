@@ -54,5 +54,5 @@ It is a **step-by-step process** that is followed to **develop high-quality soft
 You want to develop a software that is either a large scale application or a simple application that serves some purpose we first need to gather all the requirements such as its software, its actions etc. for example you want to make a basic caluclator app that performs addition, substraction, etc. such that you gather all the requiremnts needed for software.
 
 
-*** requrement Gathering -> Analysis -> Design -> Development -> Testing -> Deployment -> Maintenance -> ***
+    *** requrement Gathering -> Analysis -> Design -> Development -> Testing -> Deployment -> Maintenance -> ***
 the cycle itself repeats
