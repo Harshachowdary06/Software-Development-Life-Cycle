@@ -6,7 +6,7 @@ It is a **step-by-step process** that is followed to **develop high-quality soft
 
 ---
 
-### 🔁 **Main Steps in SDLC (Simple Explanation)
+### 🔁 **Main Steps in SDLC 
 
 1. **Requirement Gathering**
    ➤ The needs of the users are collected.
@@ -38,13 +38,21 @@ It is a **step-by-step process** that is followed to **develop high-quality soft
 
 ---------------------------------
 
-### ✅ Purpose of SDLC
+###  Purpose of SDLC
 
 * To ensure software is built **on time**, **within budget**, and **with expected quality**.
 
 ---
 
-Here is a picture that depicts all the stages in SDLC
+### Here is a picture that depicts all the stages in SDLC
 
 ![alt text](Assets/image.png)
 
+---
+### EXAMPLE[Scenario Based Explination]
+
+You want to develop a software that is either a large scale application or a simple application that serves some purpose we first need to gather all the requirements such as its software, its actions etc. for example you want to make a basic caluclator app that performs addition, substraction, etc. such that you gather all the requiremnts needed for software.
+
+
+*** requrement Gathering -> Analysis -> Design -> Development -> Testing -> Deployment -> Maintenance -> ***
+the cycle itself repeats
