@@ -54,5 +54,5 @@ It is a **step-by-step process** that is followed to **develop high-quality soft
 To build a food delivery app, the first step is requirement gathering, where features like ordering food, tracking delivery, and online payments are discussed. Next is analysis, where the team checks if the app can support many users and payment systems within the budget. In the design phase, the layout of the app, screens, and database are planned. Then, during development, the actual coding is done to build features like login, menu display, and order placement. After that, in the testing phase, the app is checked for bugs, such as payment errors or crashes. Once tested, it's deployed to the app stores for users. Finally, in the maintenance phase, updates and bug fixes are done regularly, and new features like promo codes may be added.
 
 
-    *** requrement Gathering -> Analysis -> Design -> Development -> Testing -> Deployment -> Maintenance -> ***
+    *** Requrement Gathering -> Analysis -> Design -> Development -> Testing -> Deployment -> Maintenance -> ***
 the cycle itself repeats
